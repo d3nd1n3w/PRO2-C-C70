@@ -7,7 +7,7 @@ include "inc/library.php"
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Sparepart Sepeda Motor</title>
+    <title>C70-PROGATE</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -36,7 +36,7 @@ include "inc/library.php"
 <?php include 'inc/header.php'; ?>
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.php">Sparepart Sepeda Motor</a>
+	      <a class="navbar-brand" href="index.php">C70-PROGATE</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -114,10 +114,10 @@ include "inc/library.php"
 	          	<img class="one-third order-md-last img-fluid" src="assets/images/logo_sperti.png" alt="">
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
-		          		<span class="subheading">#Sparepart Baru</span>
+		          		<span class="subheading">#C70-PROGATE</span>
 		          		<div class="horizontal">
-				            <h2 class="mb-4 mt-3">Koleksi Sparepart</h2>
-				            <p class="mb-4">Pastikan anda membeli sparepart sesuai kebutuhan anda dan di jamin berkualitas.</p>
+				            <h2 class="mb-4 mt-3">C70-PROGATE</h2>
+				            <p class="mb-4">Pastikan anda membeli sesuai kebutuhan anda dan di jamin berkualitas.</p>
 				            
 				            <p><a href="index.php" class="btn-custom">Belanja Sekarang</a></p>
 				          </div>
@@ -135,10 +135,10 @@ include "inc/library.php"
 	          	<img class="one-third order-md-last img-fluid" src="assets/images/logo_sper.png" alt="">
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
-		          		<span class="subheading">#Sparepart Baru</span>
+		          		<span class="subheading">#C70-PROGATE</span>
 		          		<div class="horizontal">
-				            <h3 class="mb-4 mt-3">Koleksi Sparepart Baru</h3>
-				            <p class="mb-4">Banyak Terdapat Koleksi Sparepart terbaru.</p>
+				            <h3 class="mb-4 mt-3">C70-PROGATE</h3>
+				            <p class="mb-4">Banyak Terdapat Koleksi terbaru.</p>
 				            
 				            <p><a href="index.php" class="btn-custom">Belanja Sekarang</a></p>
 				          </div>
@@ -160,7 +160,7 @@ include "inc/library.php"
               </div>
               <div class="media-body">
                 <h3 class="heading">Belanja Mudah</h3>
-                <p>Banyak kemudahan yang di dapatkan dalam berbelanja dan tanpa perlu memerlukan waktu untuk datang langsung ke toko membeli sparepart yang di inginkan.</p>
+                <p>Banyak kemudahan yang di dapatkan dalam berbelanja dan tanpa perlu memerlukan waktu untuk datang langsung ke toko membeli yang di inginkan.</p>
               </div>
             </div>      
           </div>
@@ -539,7 +539,7 @@ include "inc/library.php"
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Sparepart Sepeda Motor</h2>
+              <h2 class="ftco-heading-2">C70-PROGATE</h2>
               <p>Belanja Mudah, Membantu Customer, Pembayaran Aman.</p>
 <!--               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
@@ -580,9 +580,9 @@ include "inc/library.php"
             	<h2 class="ftco-heading-2">Apakah ada pertanyaan ?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">Bugel Mas Indah No. 33, Bugel, Karawaci, Kota Tangerang-Indonesia</span></li>
-	                <li><a href="https://api.whatsapp.com/send?phone=6281296336400&amp;text=Halo%20gan,%20Saya%20mau%20order....."><span class="icon icon-phone"></span><span class="text">+62 812 9633 6400</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">ekosafrizal29@gmail.com</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Kota Tangerang-Indonesia</span></li>
+	                <li><a href="https://api.whatsapp.com/send?phone=6281296336400&amp;text=Halo%20gan,%20Saya%20mau%20order....."><span class="icon icon-phone"></span><span class="text">+62 882 2596 5767</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">c70@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
