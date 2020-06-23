@@ -7,10 +7,10 @@
 	          	<img class="one-third order-md-last img-fluid" src="assets/images/logo_sperti.png" alt="">
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
-		          		<span class="subheading">#Sparepart Baru</span>
+		          		<span class="subheading">#C70-PROGATE</span>
 		          		<div class="horizontal">
-				            <h2 class="mb-4 mt-3">Koleksi Sparepart</h2>
-				            <p class="mb-4">Pastikan anda membeli sparepart sesuai kebutuhan anda dan di jamin berkualitas.</p>
+				            <h2 class="mb-4 mt-3">Koleksi C70-PROGATE</h2>
+				            <p class="mb-4">Pastikan anda membeli C70-PROGATE sesuai kebutuhan anda dan di jamin berkualitas.</p>
 				            
 				            <p><a href="index.php" class="btn-custom">Belanja Sekarang</a></p>
 				          </div>
@@ -28,10 +28,10 @@
 	          	<img class="one-third order-md-last img-fluid" src="assets/images/logo_sper.png" alt="">
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
-		          		<span class="subheading">#Sparepart Baru</span>
+		          		<span class="subheading">#C70-PROGATE Baru</span>
 		          		<div class="horizontal">
-				            <h3 class="mb-4 mt-3">Koleksi Sparepart Baru</h3>
-				            <p class="mb-4">Banyak Terdapat Koleksi Sparepart terbaru.</p>
+				            <h3 class="mb-4 mt-3">Koleksi Baru</h3>
+				            <p class="mb-4">Banyak Terdapat Koleksi terbaru.</p>
 				            
 				            <p><a href="index.php" class="btn-custom">Belanja Sekarang</a></p>
 				          </div>
