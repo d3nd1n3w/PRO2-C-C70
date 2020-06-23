@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+li{
+	list-style:none;	
+}
+
+a{
+	text-decoration:none;	
+}
+
+/*-- bagian header --*/
+
+#header{
+	height:70px;	
+	background:#76d3ea;
+	border-bottom:1px solid white;	
+}
+
+#canvas{
+	margin:0 auto;
+	width:1300;
+}
+
+/*-- bagian isi --*/
+
+#header h1{
+	color:white;
+	line-height:70px;
+	float:left;
+}
+
+#header h3{
+	float:right;
+	color:white;
+	line-height:70px;
+}
+
+#isi{
+	height:auto;
+	min-height:550px;
+	}
+
+#nav{
+	width:200px;
+	background:#76d3ea;
+	float:left;
+}
+
+ul li{
+	border-bottom:1px solid white;
+	}
+	
+li a{
+	color:white;
+	padding:10px 20px;
+	display:block;
+}
+
+li a:hover{
+	background:gray;
+}
+
+#konten{
+	padding-left:210px;
+	padding-top:20px;
+}
+	
+/*-- bagian footer --*/
+
+#footer{
+	text-align:center;
+	background:#76d3ea;
+	color:white;
+	height:40px;
+	line-height:40px;
+	}
