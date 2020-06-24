@@ -1,0 +1,91 @@
+#kolom3{
+	background-color:#7fffd4;
+	margin-bottom: 20px;
+	width: 240px;
+	height: 280px;
+	margin: 6px;
+	float: left;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.nama_barang{
+	width: 250px;
+	
+}
+
+.gambar_barang img{
+	width: 185px;
+	height: 185px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+.tombol_beli{
+	float: left;
+	width: 90px;
+	margin: 10px;
+	margin-left: 10px;
+}
+
+.tombol_beli a{
+	padding: 10px 25px;
+	background: white;
+	border: 1px solid black;
+	border-radius: 10px;
+	color: #81c7b9;
+}
+
+.tombol_beli a:hover{
+	background: #ededed;
+	color: black;
+}
+
+.tombol_detail{
+	width: 110px;
+	margin: 10px;
+	float: left;
+}
+
+.tombol_detail a{
+	padding: 10px 20px;
+	background: white;
+	border: 1px solid black;
+	border-radius: 10px;
+	color: #81c7b9;
+}
+
+.tombol_detail a:hover{
+	background: #ededed;
+	color: black;
+}
+
+.jrk{
+	margin-top: 10px;
+}
+
+.kategori a:hover{
+	color: blue;
+}
+
+#halaman{
+	margin-top: 30px;
+	text-align: center;
+}
+
+#halaman a:hover{
+	color: #81c7b9;
+}
+
+.tombol_lihat a{
+	padding: 10px 20px;
+	border-radius: 10px;
+	border: 1px solid #81c7b9;
+	background: #81c7b9;
+	color: white;
+}
+
+.tombol_lihat a:hover{
+	background: white;
+	color: #81c7b9;
+}

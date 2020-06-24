@@ -1,0 +1,438 @@
+*{
+	margin: 0px; 
+	padding: 0px;
+	font-family: sans-serif; font-weight: normal;
+}
+
+a{
+	text-decoration: none;
+}
+
+li{
+	list-style: none;
+}
+
+img{
+	max-width: 100%; max-height: 100%;
+}
+
+#menu
+{
+	background-color:#7fffd4;
+	height:40px;
+}
+
+
+
+/*-- bagian header --*/
+.jr{
+	margin-top: 40px;
+}
+
+#header{
+	height:40px;
+	padding-top: 20px;
+	background-color:#FFF;
+}
+
+.konten{
+	width: 960px;
+	margin: 0 auto;
+}
+
+#logo{
+	display: block;
+	margin-bottom: 0px; 
+	float: left;
+	padding-left: 5px; 
+}
+
+
+#search-form .selected{
+    color: #333333;
+    width: 200px;
+    background-color: transparent;
+    border: 1px solid #ededed;
+    border-radius: 2px;
+    padding-left: 5px;
+    padding-right: 10px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+input[name=txtKeyword] {
+    -ms-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    color: inherit;
+    font-size: 14px;
+    line-height: 27px;
+    font-family: inherit;
+    background: #ededed;
+    padding: 10px 10px;
+    min-height: 30px;
+    width: 159px;
+}
+
+input[name=btnCari]{
+    border-radius: 2px;
+	padding: 17px 10px;
+    min-height: 30px;
+}
+
+input{
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	border: 1px solid #81c7b9;
+}
+
+input[type=submit]{
+	background: #81c7b9;
+	color: white;
+	margin-bottom: 10px;
+}
+
+input[type=submit]:hover{
+	background: white;
+	color: #81c7b9;
+	cursor: pointer;
+}
+
+.turqouise{
+	width: 50px;
+	background-color: #81c7b9;
+    border: 1px solid #ededed;
+    color: white;
+}
+
+#kanan_atas{
+	float: right;
+	display: block;
+	padding: 0px 5px;
+
+}
+
+#kanan_atas a{
+	color: black;
+	display: block;
+}
+
+#kanan_atas a:hover{
+	color: #81c7b9;
+}
+
+#kanan_bawah{
+	float: right;
+	padding: 0px 5px;
+	border-right: 0px solid #ededed; 
+}
+
+#kanan_bawah a{
+	color: black;
+	display: block;
+}
+
+#kanan_bawah a:hover{
+	color: #81c7b9;
+}
+
+#kanan_b{
+	float: right;
+	display: block;
+	padding: 0px 5px;
+	border-right: 0px solid #ededed; 
+}
+
+#kanan_b a{
+	color: black;
+}
+
+#kanan_b a:hover{
+	color: #81c7b9;
+}
+ 
+#clear{
+	clear: both;
+}
+
+
+nav > ul > li{
+	width: 192px;
+	float: left;
+}
+
+li{
+	position: relative;
+	display: block;
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	background-color:#7fffd4;
+}
+
+.kolom_5{
+	display: block;
+}
+
+.kolom_5:hover{
+	color: white;
+}
+
+.awal{
+	border-top: 1px solid black;	
+}
+
+.akhir{
+	border-bottom: 1px solid black;
+}
+
+li > ul{
+	display: none;
+}
+
+li ul li ul li{
+	left: 100%;
+	top: -40px;
+}
+
+li:hover > ul{
+	display: block;
+}
+
+/*-- bagian isi --*/
+
+a{
+	color: black;
+}
+
+#isi{
+	margin-top: 20px; 
+	padding: 0;
+	color: black;
+	text-align: center;
+	padding-bottom: 0px;
+	min-height: 600px;
+}
+
+#selamat_datang{
+	width: 100%;
+	height: 75px;
+	background: white;
+	margin-bottom: 20px;
+	line-height: 75px;
+	color: #81c7b9;
+}
+
+.kolom_2{
+	float: left;
+	margin: 0 15px;
+	margin-bottom: 15px;
+}
+
+.kolom_2 #produk{
+	width: 450px;
+	height: 260px;
+	position: relative;
+	overflow: hidden;
+}
+
+#produk img{
+	width: 100%;
+	height: 260px;
+}
+
+
+#info{
+	position: absolute;
+	top: 0;
+	height: 260px;
+	width: 100%;
+	text-align: left;
+	padding-top: 20%;
+	padding-left: 20px;
+	font-size: 12px;
+	color: black;
+}
+
+#tutup{
+	background: #81c7b9;
+	position: absolute;
+	height: 260px;
+	width: 100%;
+	top: 0;
+	text-align: left;
+	padding-top: 20%;
+	padding-left: 20px;
+	font-size: 12px;
+	color: black;
+}
+
+#produk #tutup{
+	display: none;
+}
+
+#produk:hover #tutup{
+	display: block;
+}
+
+#produk span{
+	display: block;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 70px;
+	letter-spacing: 0.03em;
+}
+
+#info .tombol{
+	text-decoration: none;
+	color: black;
+	width: 100px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+#tutup .tombol{
+	text-decoration: none;
+	color: black;
+	width: 100px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+#tutup .tombol:hover{
+	background: black;
+	color: white;
+}
+
+#produk_kanan{
+	width: 450px;
+	height: 400px;
+	position: relative;
+	overflow: hidden;
+}
+
+#produk_kanan img{
+	width: 100%;
+	height: 400px;
+}
+
+#info_kanan{
+	position: absolute;
+	top: 0;
+	height: 400px;
+	width: 100%;
+	text-align: left;
+	padding-top: 30%;
+	padding-left: 260px;
+	font-size: 12px;
+	color: black;
+}
+
+#tutup_kanan{
+	background: #ffb98e;
+	position: absolute;
+	height: 400px;
+	width: 100%;
+	top: 0;
+	text-align: left;
+	padding-top: 30%;
+	padding-left: 260px;
+	font-size: 12px;
+	color: black;
+}
+
+#produk_kanan #tutup_kanan{
+	display: none;
+}
+
+#produk_kanan:hover #tutup_kanan{
+	display: block;
+}
+
+#produk_kanan span{
+	display: block;
+	font-size: 27px;
+	font-weight: 700;
+	line-height: 60px;
+	letter-spacing: 0.0001em;
+}
+
+#info_kanan .tombol{
+	text-decoration: none;
+	color: black;
+	width: 100px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+#tutup_kanan .tombol{
+	text-decoration: none;
+	color: black;
+	width: 100px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+#tutup_kanan .tombol:hover{
+	background: black;
+	color: white;
+}
+
+
+/*-- bagian bank & pengiriman --*/
+
+.payment{
+	color: #81c7b9;
+	padding-top: 20px;
+}
+
+.bank{
+	float: left;
+	width: 300px;
+	padding: 50px 10px;
+}
+
+
+/*-- lihat barang --*/
+
+.lihat_barang{
+	padding: 50px;	
+}
+
+/*-- bagian footer --*/
+
+#footer{
+	width: 100%;
+	height: 50px;
+	background: #ededed;
+	margin-top: 30px;
+	background-color:#7fffd4;
+}
+
+.sitemap{
+	text-align: center;
+	line-height: 50px;
+}
+
+.sitemap a:hover{
+	color: #81c7b9;
+}
+
+.sitemap span{
+	margin: 10px;
+}
+
+.copy{
+	text-align: center;
+	line-height: 50px;
+}
+
+.copy a:hover{
+	color: #81c7b9;
+}
+
+.copy span{
+	margin: 20px;
+}
