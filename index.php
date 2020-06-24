@@ -116,7 +116,7 @@ include "inc/library.php"
 		          	<div class="text">
 		          		<span class="subheading">#C70-PROGATE</span>
 		          		<div class="horizontal">
-				            <h2 class="mb-4 mt-3">C70-PROGATE</h2>
+				            <h2 class="mb-4 mt-3">Koleksi C70-PROGATE</h2>
 				            <p class="mb-4">Pastikan anda membeli sesuai kebutuhan anda dan di jamin berkualitas.</p>
 				            
 				            <p><a href="index.php" class="btn-custom">Belanja Sekarang</a></p>
@@ -135,10 +135,10 @@ include "inc/library.php"
 	          	<img class="one-third order-md-last img-fluid" src="assets/images/logo_sper.png" alt="">
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
-		          		<span class="subheading">#C70-PROGATE</span>
+		          		<span class="subheading">#Sparepart Baru</span>
 		          		<div class="horizontal">
-				            <h3 class="mb-4 mt-3">C70-PROGATE</h3>
-				            <p class="mb-4">Banyak Terdapat Koleksi terbaru.</p>
+				            <h3 class="mb-4 mt-3">Koleksi Sparepart Baru</h3>
+				            <p class="mb-4">Banyak Terdapat Koleksi Sparepart terbaru.</p>
 				            
 				            <p><a href="index.php" class="btn-custom">Belanja Sekarang</a></p>
 				          </div>
@@ -160,7 +160,7 @@ include "inc/library.php"
               </div>
               <div class="media-body">
                 <h3 class="heading">Belanja Mudah</h3>
-                <p>Banyak kemudahan yang di dapatkan dalam berbelanja dan tanpa perlu memerlukan waktu untuk datang langsung ke toko membeli yang di inginkan.</p>
+                <p>Banyak kemudahan yang di dapatkan dalam berbelanja dan tanpa perlu memerlukan waktu untuk datang langsung ke toko membeli sparepart yang di inginkan.</p>
               </div>
             </div>      
           </div>
@@ -582,7 +582,7 @@ include "inc/library.php"
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Kota Tangerang-Indonesia</span></li>
 	                <li><a href="https://api.whatsapp.com/send?phone=6281296336400&amp;text=Halo%20gan,%20Saya%20mau%20order....."><span class="icon icon-phone"></span><span class="text">+62 882 2596 5767</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">c70@gmail.com</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">c70progate@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -592,7 +592,7 @@ include "inc/library.php"
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-						  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Design by Eko Rizal
+						  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Design by C70-PROGATE
 						  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 						</p>
           </div>
